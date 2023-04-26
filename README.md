@@ -14,7 +14,7 @@
 Код программы представлен на следующих рисунках <br>
 ![image](https://user-images.githubusercontent.com/126500303/234540137-1e9cf9d0-448b-44ea-99b7-13a45e33bb21.png) <br>
 ![image](https://user-images.githubusercontent.com/126500303/234540253-15d3f9a8-0740-4ef0-9433-359472fc7ef2.png) <br>
-![image](https://user-images.githubusercontent.com/126500303/234540352-a02f1fb7-7409-4bc8-aee0-4beb978e36f6.png) <br>
+![image](https://user-images.githubusercontent.com/126500303/234545808-c5a9bd0c-c69d-4c3e-bf4f-4a1618f514f6.png) <br>
 
 Проект находится в папке some, код программы в файле main.c
 
